@@ -30,33 +30,38 @@
       "Streamlined SaaS boilerplate development platform.",
       "https://github.com/ibra47/SPARKSTRAP"
     ],
+      [
+      "CollabUO (In progress)",
+      "comprehensive collaboration platform designed to facilitate seamless teamwork among University of Ottawa students.",
+      "https://github.com/ibra47/CollabUO"
+    ],
     [
       "ThiamShell",
       "Terminal-inspired portfolio website.",
       "https://github.com/ibra47/TERMINAL"
     ]
   ],
-  "colors": {
-    "background": "#FAEDCD",
-    "foreground": "#D4A373",
-    "banner": "#CCD5AE",
+ "colors": {
+    "background": "#0C0623",
+    "foreground": "#F8DDE5",
+    "banner": "#FF9951",
     "border": {
       "visible": true,
-      "color": "#FEFAE0"
+      "color": "#FFADE2"
     },
     "prompt": {
-      "default": "#4E4F4F",
-      "user": "#5543F7",
-      "host": "#DB70ff",
-      "input": "#69FFFA"
+      "default": "#A5A7A7",
+      "user": "#FE6BC9",
+      "host": "#70FDFF",
+      "input": "#FF7685"
     },
     "link": {
-      "text": "#4831F5",
-      "highlightColor": "#FFA8A8",
-      "highlightText": "#1F1A33"
+      "text": "#B6AAEE",
+      "highlightColor": "#FFADE2",
+      "highlightText": "#0C0623"
     },
     "commands": {
-      "textColor": "#B7FCB1"
+      "textColor": "#FD9BDB"
     }
   }
 }
