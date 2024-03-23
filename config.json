@@ -1,9 +1,9 @@
 "ascii": [
-    "Line 1: ASCII Art",
-    "Line 2: ASCII Art",
-    "Line 3: ASCII Art",
-    "Line 4: ASCII Art",
-    "Line 5: ASCII Art"
+    "  ___           _           _     _   _     _ ",
+    " |_ _|_ __ ___ (_) __ _    | |__ (_) | |_  | |",
+    "  | || '_ ` _ \\| |/ _` |   | '_ \\| | | __| | |",
+    "  | || | | | | | | (_| |   | | | | | | |_  |_|",
+    " |___|_| |_| |_|_|\\__,_|   |_| |_|_|  \\__| (_)"
 ],
   "title": "WebShell",
   "username": "visitor",
