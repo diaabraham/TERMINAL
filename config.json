@@ -43,14 +43,14 @@
   ],
 "colors": {
     "background": "#191528",
-    "foreground": "#3c162f",
+    "foreground": "#7c162e",
     "banner": "#CCD5AE",
     "border": {
       "visible": true,
       "color": "#5c162e"
     },
     "prompt": {
-      "default": "#7c162e",
+      "default": "#3c162f",
       "user": "#110e1b",
       "host": "#DB70ff",
       "input": "#69FFFA"
