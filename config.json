@@ -24,21 +24,16 @@
     "linkedin": "abthiam"
   },
   "aboutGreeting": "Hi you, Welcome to thiamshell...  A spinoff of the powershell terminal.",
-  "projects": [
+ "projects": [
     [
-      "GofeR",
-      "Streamlined SaaS boilerplate development platform.",
-      "https://github.com/ibra47/SPARKSTRAP"
+      "Project Name",
+      "Project Description",
+      "Project Link"
     ],
     [
-      "",
-      "comprehensive collaboration platform designed to facilitate seamless teamwork among University of Ottawa students.",
-      "https://github.com/ibra47/CollabUO"
-    ],
-    [
-      "WebShell",
-      "Terminal-inspired portfolio website.",
-      "https://github.com/ibra47/TERMINAL"
+      "Another Project Name",
+      "Another Project Description",
+      "Another Project Link"
     ]
   ],
 "colors": {
