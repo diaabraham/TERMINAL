@@ -28,7 +28,7 @@
     [
       "GofeR",
       "Streamlined SaaS boilerplate development platform.",
-      "https://github.com/nasan016/gofer"
+      "https://github.com/ibra47/SPARKSTRAP"
     ],
     [
       "",
@@ -37,21 +37,21 @@
     ],
     [
       "WebShell",
-      "Terminal styled website.",
-      "https://github.com/nasan016/webshell"
+      "Terminal-inspired portfolio website.",
+      "https://github.com/ibra47/TERMINAL"
     ]
   ],
 "colors": {
-    "background": "#FAEDCD",
-    "foreground": "#D4A373",
+    "background": "#191528",
+    "foreground": "#3c162f",
     "banner": "#CCD5AE",
     "border": {
       "visible": true,
-      "color": "#FEFAE0"
+      "color": "#5c162e"
     },
     "prompt": {
-      "default": "#4E4F4F",
-      "user": "#5543F7",
+      "default": "#7c162e",
+      "user": "#110e1b",
       "host": "#DB70ff",
       "input": "#69FFFA"
     },
