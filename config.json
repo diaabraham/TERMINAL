@@ -26,14 +26,14 @@
   "aboutGreeting": "Hi you, Welcome to thiamshell...  A spinoff of the powershell terminal.",
   "projects": [
     [
-      "SparkStrap (In progress)",
-      "Streamlined SaaS boilerplate development platform.",
-      "https://github.com/ibra47/SPARKSTRAP"
+      "GofeR",
+      "Vue.js reactivity in Go.",
+      "https://github.com/nasan016/gofer"
     ],
     [
-      "CollabUO (In progress)",
-      "comprehensive collaboration platform designed to facilitate seamless teamwork among University of Ottawa students.",
-      "https://github.com/ibra47/CollabUO"
+      "WebShell",
+      "Terminal styled website.",
+      "https://github.com/nasan016/webshell"
     ]
   ],
 "colors": {
