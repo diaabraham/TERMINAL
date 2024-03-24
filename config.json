@@ -43,11 +43,11 @@
   ],
 "colors": {
     "background": "#191528",
-    "foreground": "#7c162e",
-    "banner": "#CCD5AE",
+    "foreground": "#5c162e",
+    "banner": "#dcfa7a",
     "border": {
       "visible": true,
-      "color": "#5c162e"
+      "color": "#c22146"
     },
     "prompt": {
       "default": "#3c162f",
