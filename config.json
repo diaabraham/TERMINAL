@@ -27,13 +27,19 @@
 "projects": [
     [
       "SparkStrap",
-      "Vue.js reactivity in Go.",
-      "https://github.com/nasan016/gofer"
+      "Streamlined SaaS boilerplate development platform.",
+      "https://github.com/ibra47/SPARKSTRAP"
     ],
     [
-      "WebShell",
-      "Terminal styled website.",
-      "https://github.com/nasan016/webshell"
+      "CollabUO",
+      "comprehensive collaboration platform designed to facilitate seamless teamwork among University of Ottawa students..",
+      "https://github.com/ibra47/CollabUO"
+    ]
+  ],
+[
+      "ThiamShell",
+      "Terminal-inspired portfolio website.",
+      "https://github.com/ibra47/TERMINAL"
     ]
   ],
 "colors": {
