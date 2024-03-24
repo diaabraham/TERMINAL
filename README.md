@@ -1,4 +1,4 @@
-# [THIAMShell | Linus-Terminal Portfolio](https://www.thiamstudios.dev/)
+# [THIAMShell | Linux - Terminal Portfolio](https://www.thiamstudios.dev/)
 
 <div align="center">
   <img alt="banner" src="https://raw.githubusercontent.com/nasan016/webshell/main/res/banner.png">
