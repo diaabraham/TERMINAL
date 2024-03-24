@@ -26,9 +26,9 @@
   "aboutGreeting": "Hi you, Welcome to thiamshell...  A spinoff of the powershell terminal.",
   "projects": [
     [
-      "SparkStrap (In progress)",
-      "Streamlined SaaS boilerplate development platform.",
-      "https://github.com/ibra47/SPARKSTRAP"
+      "GofeR",
+      "Vue.js reactivity in Go.",
+      "https://github.com/nasan016/gofer"
     ],
     [
       "WebShell",
