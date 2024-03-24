@@ -24,16 +24,16 @@
     "linkedin": "abthiam"
   },
   "aboutGreeting": "Hi you, Welcome to thiamshell...  A spinoff of the powershell terminal.",
- "projects": [
+"projects": [
     [
-      "Project Name",
-      "Project Description",
-      "Project Link"
+      "GofeR",
+      "Vue.js reactivity in Go.",
+      "https://github.com/nasan016/gofer"
     ],
     [
-      "Another Project Name",
-      "Another Project Description",
-      "Another Project Link"
+      "WebShell",
+      "Terminal styled website.",
+      "https://github.com/nasan016/webshell"
     ]
   ],
 "colors": {
