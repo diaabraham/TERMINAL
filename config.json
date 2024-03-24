@@ -13,55 +13,50 @@
     "   ██║   ██║  ██║██║██║  ██║██║ ╚═╝ ██║",
     "   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝     ╚═╝"
   ],
-  "title": "thiamstudios",
+ "title": "WebShell",
   "username": "visitor",
-  "hostname": "thiamshell",
+  "hostname": "webshell",
   "password": "050823",
-  "repoLink": "https://github.com/ibra47/TERMINAL",
+  "repoLink": "https://github.com/nasan016/webshell",
   "social": {
-    "email": "dev.ibrahimt@gmail.com",
-    "github": "ibra47",
-    "linkedin": "abthiam"
+    "email": "your@email.com",
+    "github": "yourgithub",
+    "linkedin": "you"
   },
-  "aboutGreeting": "Hi you, Welcome to thiamshell...  A spinoff of the powershell terminal.",
+  "aboutGreeting": "Hi stranger. Welcome to WebShell.",
   "projects": [
     [
-      "SparkStrap (In progress)",
-      "Streamlined SaaS boilerplate development platform.",
-      "https://github.com/ibra47/SPARKSTRAP"
-    ],
-      [
-      "CollabUO (In progress)",
-      "comprehensive collaboration platform designed to facilitate seamless teamwork among University of Ottawa students.",
-      "https://github.com/ibra47/CollabUO"
+      "GofeR",
+      "Vue.js reactivity in Go.",
+      "https://github.com/nasan016/gofer"
     ],
     [
-      "ThiamShell",
-      "Terminal-inspired portfolio website.",
-      "https://github.com/ibra47/TERMINAL"
+      "WebShell",
+      "Terminal styled website.",
+      "https://github.com/nasan016/webshell"
     ]
   ],
- "colors": {
-    "background": "#0C0623",
-    "foreground": "#F8DDE5",
-    "banner": "#FF9951",
+"colors": {
+    "background": "#FAEDCD",
+    "foreground": "#D4A373",
+    "banner": "#CCD5AE",
     "border": {
       "visible": true,
-      "color": "#FFADE2"
+      "color": "#FEFAE0"
     },
     "prompt": {
-      "default": "#A5A7A7",
-      "user": "#FE6BC9",
-      "host": "#70FDFF",
-      "input": "#FF7685"
+      "default": "#4E4F4F",
+      "user": "#5543F7",
+      "host": "#DB70ff",
+      "input": "#69FFFA"
     },
     "link": {
-      "text": "#B6AAEE",
-      "highlightColor": "#FFADE2",
-      "highlightText": "#0C0623"
+      "text": "#4831F5",
+      "highlightColor": "#FFA8A8",
+      "highlightText": "#1F1A33"
     },
     "commands": {
-      "textColor": "#FD9BDB"
+      "textColor": "#B7FCB1"
     }
   }
 }
