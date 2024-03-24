@@ -51,7 +51,7 @@
     },
     "prompt": {
       "default": "#a84887",
-      "user": "#7affb6",
+      "user": "#f78deb",
       "host": "#DB70ff",
       "input": "#fcf5f8"
     },
@@ -61,7 +61,7 @@
       "highlightText": "#1F1A33"
     },
     "commands": {
-      "textColor": "#fcecb1"
+      "textColor": "#e6d3db"
     }
   }
 }
