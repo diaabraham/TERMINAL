@@ -23,12 +23,12 @@
     "github": "ibra47",
     "linkedin": "abthiam"
   },
-  "aboutGreeting": "Hi stranger. Welcome to WebShell.",
+  "aboutGreeting": "Hi you, Welcome to thiamshell...  A spinoff of the powershell terminal.",
   "projects": [
     [
-      "GofeR",
-      "Vue.js reactivity in Go.",
-      "https://github.com/nasan016/gofer"
+      "SparkStrap (In progress)",
+      "Streamlined SaaS boilerplate development platform.",
+      "https://github.com/ibra47/SPARKSTRAP"
     ],
     [
       "WebShell",
