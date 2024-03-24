@@ -53,7 +53,7 @@
       "default": "#a84887",
       "user": "#7affb6",
       "host": "#DB70ff",
-      "input": "#f792a1"
+      "input": "#fcf5f8"
     },
     "link": {
       "text": "#4831F5",
@@ -61,7 +61,7 @@
       "highlightText": "#1F1A33"
     },
     "commands": {
-      "textColor": "#B7FCB1"
+      "textColor": "#fcecb1"
     }
   }
 }
