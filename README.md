@@ -18,7 +18,7 @@
 
 ## Secret feature
 <div align="center">
-  <img alt="banner" src="https://raw.githubusercontent.com/nasan016/webshell/main/res/secret.png">
+  <img width="945" alt="image" src="https://github.com/ibra47/TERMINAL/assets/64830252/4e16ea0b-d101-43c9-843c-cec3e5528d60">
 </div>
 How did we get here?
 
@@ -29,24 +29,24 @@ Most of the configuration is done in the `config.json` file.
 ```json
 {
   "ascii": [
-    "██████╗ ██╗   ██╗ ██████╗",
-    "██╔══██╗██║   ██║██╔════╝",
-    "██║  ██║██║   ██║██║  ███╗",
-    "██║  ██║██║   ██║██║   ██║",
-    "██████╔╝╚██████╔╝╚██████╔╝",
-    "╚═════╝  ╚═════╝  ╚═════╝",
+    "     ____               ",
+    "    |    | ____   ____  ",
+    "    |    |/  _ \ /    \ ",
+    "/\__|    (  <_> )   |  \",
+    "\________|\____/|___|  /╝",
+    "                     \/ ",
   ],
-  "title": "Dug's Terminal",
-  "username": "guest",
-  "hostname": "dug.dev",
-  "password": "squirrel",
-  "repoLink": "https://github.com/nasan016/webshell",
+  "title": "Jon's Terminal",
+  "username": "specialguest",
+  "hostname": "jonscorner.dev",
+  "password": "hello!",
+  "repoLink": "https://github.com/ibra47/TERMINAL",
   "social": {
-    "email": "dug@pixar.com",
-    "github": "dugfromup",
-    "linkedin": "dugthedog"
+    "email": "jon@co.dev",
+    "github": "jonscornerdoesntactuallyexist",
+    "linkedin": "jonscorneralsodoesntactuallyexist"
   },
-  "aboutGreeting": "My name is Dug. I have just met you.",
+  "aboutGreeting": "Hey there! I'm Jon, nice to meet you!",
   "projects": [
     [
       "Project Name",
@@ -69,7 +69,7 @@ Most of the configuration is done in the `config.json` file.
 
 Clone the repository
 ```shell
-git clone https://github.com/nasan016/webshell.git
+git clone https://github.com/ibra47/TERMINAL.git
 ```
 Go to the project directory
 ```shell
