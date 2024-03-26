@@ -16,7 +16,7 @@
 * **[Esc]** to clear the input line.
 * **[↑][↓]** to scroll through your command history.
 
-## ???
+## Secret feature
 <div align="center">
   <img alt="banner" src="https://raw.githubusercontent.com/nasan016/webshell/main/res/secret.png">
 </div>
