@@ -20,7 +20,7 @@
 <div align="center">
   <img width="945" alt="image" src="https://github.com/ibra47/TERMINAL/assets/64830252/4e16ea0b-d101-43c9-843c-cec3e5528d60">
 </div>
-How did we get here?
+sudo
 
 ## Configuration
 
