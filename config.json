@@ -33,7 +33,7 @@
 "projects": [
     [
       "Lazy RAG",
-      "An enterprise-grade LLM-Oracle using La-Z-Boy of East Ontario & West Quebec's internal knowledge base to support Sales, Warehouse & Administrative team members in their daily tasks.",
+      "An internal knowledge-base & LLM supported Oracle platform to support Sales, WH & Admin team members in their daily tasks.",
       "https://github.com/diaabraham/LZB-RAG"
     ],
 
