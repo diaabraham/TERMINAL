@@ -1,7 +1,7 @@
-# [THIAMShell | Linux - Terminal Portfolio](https://www.thiamstudios.dev/)
+# [DIAShell | Linux - Terminal Portfolio](https://www.terminal.dev/)
 
 <div align="center">
-  <img width="944" alt="image" src="https://github.com/ibra47/TERMINAL/assets/64830252/e50826da-23aa-4f21-9d18-7d3b85c97043">
+  <img width="944" alt="image" src="https://github.com/diaabraham/TERMINAL/assets/64830252/e50826da-23aa-4f21-9d18-7d3b85c97043">
 </div>
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -18,7 +18,7 @@
 
 ## Secret feature
 <div align="center">
-  <img width="945" alt="image" src="https://github.com/ibra47/TERMINAL/assets/64830252/4e16ea0b-d101-43c9-843c-cec3e5528d60">
+  <img width="945" alt="image" src="https://github.com/diaabraham/TERMINAL/assets/64830252/4e16ea0b-d101-43c9-843c-cec3e5528d60">
 </div>
 sudo
 
