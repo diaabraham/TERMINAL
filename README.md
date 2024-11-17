@@ -1,4 +1,4 @@
-# [DIAShell | Linux - Terminal Portfolio](https://www.terminal.dev/)
+# [DIAShell | Linux - Terminal Portfolio](https://www.terminal-sigma-rosy.vercell.app/)
 
 <div align="center">
   <img width="944" alt="image" src="https://github.com/diaabraham/TERMINAL/assets/64830252/e50826da-23aa-4f21-9d18-7d3b85c97043">
