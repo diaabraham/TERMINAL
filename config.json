@@ -1,44 +1,56 @@
 {
   "ascii": [
-    "██╗██████╗ ██████╗ █████╗  ██╗  ██╗██╗███╗   ███╗",
-    "██║██╔══██╗██╔══██╗██╔══██╗██║  ██║██║████╗ ████║",
-    "██║██████╦╝██████╔╝███████║███████║██║██╔████╔██║",
-    "██║██╔══██╗██╔══██╗██╔══██║██╔══██║██║██║╚██╔╝██║",
-    "██║██████╦╝██║  ██║██║  ██║██║  ██║██║██║ ╚═╝ ██║",
-    "╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝",
-    "████████╗██╗  ██╗██╗ █████╗ ███╗   ███╗",
-    "╚══██╔══╝██║  ██║██║██╔══██╗████╗ ████║",
-    "   ██║   ███████║██║███████║██╔████╔██║",
-    "   ██║   ██╔══██║██║██╔══██║██║╚██╔╝██║",
-    "   ██║   ██║  ██║██║██║  ██║██║ ╚═╝ ██║",
-    "   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝     ╚═╝"
+    "   ____     _______   .-------.       ____    .---.  .---.    ____    ,---.    ,---. ",
+    " .'  __ `. \\  ____  \\ |  _ _   \\    .'  __ `. |   |  |_ _|  .'  __ `. |    \\  /    | ",
+    "/   '  \\  \\| |    \\ | | ( ' )  |   /   '  \\  \\|   |  ( ' ) /   '  \\  \\|  ,  \\/  ,  | ",
+    "|___|  /  || |____/ / |(_ o _) /   |___|  /  ||   '-(_{;}_)|___|  /  ||  |\\_   /|  | ",
+    "   _.-`   ||   _ _ '. | (_,_).' __    _.-`   ||      (_,_)    _.-`   ||  _( )_/ |  | ",
+    ".'   _    ||  ( ' )  \\|  |\\ \\  |  |.'   _    || _ _--.   | .'   _    || (_ o _) |  | ",
+    "|  _( )_  || (_{;}_) ||  | \\ `'   /|  _( )_  ||( ' ) |   | |  _( )_  ||  (_,_)  |  | ",
+    "\\ (_ o _) /|  (_,_)  /|  |  \\    / \\ (_ o _) /(_{;}_)|   | \\ (_ o _) /|  |      |  | ",
+    " '.(_,_).' /_______.' ''-'   `'-'   '.(_,_).' '(_,_) '---'  '.(_,_).' '--'      '--' ",
+    " ______     .-./`)    ____                                                          ",
+    "|    _ `''. \\ .-.') .'  __ `.                                                       ",
+    "| _ | ) _  \\/ `-' \\/   '  \\  \\                                                      ",
+    "|( ''_'  ) | `-'`\"`|___|  /  |                                                      ",
+    "| . (_) `. | .---.    _.-`   |                                                      ",
+    "|(_    ._) ' |   | .'   _    |                                                      ",
+    "|  (_.\\.' /  |   | |  _( )_  |                                                      ",
+    "|       .'   |   | \\ (_ o _) /                                                      ",
+    "'-----'`     '---'  '.(_,_).'      ",
   ],
- "title": "thiamstudios",
+ "title": "diastudios",
   "username": "visitor",
-  "hostname": "thiamshell.dev",
+  "hostname": "diashell.dev",
   "password": "TTBthxneTOKYO209903",
-  "repoLink": "https://github.com/ibra47/TERMINAL",
+  "repoLink": "https://github.com/diaabraham/TERMINAL",
   "social": {
-    "email": "dev.ibrahimd@gmail.com",
-    "github": "ibra47",
-    "linkedin": "abthiam"
+    "email": "abrahamdia@hotmail.com",
+    "github": "diaabraham",
+    "linkedin": "abraham dia"
   },
-  "aboutGreeting": "Hi you, Welcome to thiamshell...  A spinoff of the powershell terminal.",
+  "aboutGreeting": "Hi you, Welcome to diashell...  A spinoff of the classic powershell terminal.",
 "projects": [
+    [
+      "Lazy RAG",
+      "An enterprise-grade LLM-Oracle using La-Z-Boy of East Ontario & West Quebec's internal knowledge base to support Sales, Warehouse & Administrative team members in their daily tasks.",
+      "https://github.com/diaabraham/LZB-RAG"
+    ],
+
     [
       "SparkStrap",
       "Streamlined SaaS boilerplate development platform.",
-      "https://github.com/ibra47/SPARKSTRAP"
+      "https://github.com/diaabraham/SPARKSTRAP"
     ],
   [
       "CollabUO",
       "comprehensive collaboration platform designed to facilitate seamless teamwork among University of Ottawa students..",
-      "https://github.com/ibra47/CollabUO"
+      "https://github.com/diaabraham/CollabUO"
     ],
     [
-      "ThiamShell",
+      "DiaShell",
       "Terminal-inspired portfolio website.",
-      "https://github.com/ibra47/TERMINAL"
+      "https://github.com/diaabraham/TERMINAL"
     ]
   ],
 "colors": {
