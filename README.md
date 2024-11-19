@@ -1,8 +1,9 @@
 # [DIAShell | Linux - Terminal Portfolio](https://www.terminal-sigma-rosy.vercell.app/)
 
 <div align="center">
-  <img width="944" alt="image" src="https://github.com/diaabraham/TERMINAL/assets/64830252/e50826da-23aa-4f21-9d18-7d3b85c97043">
+  <img width="1001" alt="Screenshot 2024-11-19 at 12 07 20 PM" src="https://github.com/user-attachments/assets/3ca988da-a73f-4ec7-9404-f011f5a23e8c">
 </div>
+
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
